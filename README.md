@@ -12,7 +12,7 @@ This is a minimal React.js starter template designed for hackathons:
 
 ### 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/react-hackathon-starter.git
+git clone https://github.com/qozfa-dev/react-hackathon-starter.git
 cd react-hackathon-starter
 ```
 
